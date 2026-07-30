@@ -64,7 +64,9 @@ Due to confidentiality requirements, the original data, source code, infrastruct
 
 ### NYC Subway Ridership Forecasting
 
-A station-specific forecasting study that compares local temporal models with neighbour-aware xLSTM architectures.
+A station-specific forecasting study comparing local temporal models with neighbour-aware xLSTM architectures.
+
+[View repository](https://github.com/SusuSui/nyc-subway-ridership-forecasting)
 
 ### Transit Passenger Prediction
 
