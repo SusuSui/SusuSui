@@ -36,7 +36,9 @@ The main research question is:
 
 > Can a forecasting model learn from neighbouring subway stations, and if so, when and how?
 
-A cleaned and reproducible public version of the project will be added soon.
+The public project repository is available here:
+
+[View the NYC Subway Ridership Forecasting project](https://github.com/SusuSui/nyc-subway-ridership-forecasting)
 
 ## 💼 AI Internship
 
