@@ -102,6 +102,14 @@ I am the founder and director of Alkauthar Academy, an online academy for childr
 
 I also support educational and community projects through online teaching and website administration.
 
+## 📄 Résumé
+
+I am completing a Master’s degree in Artificial Intelligence at Johannes Kepler University Linz and hold a Bachelor’s degree in Business Informatics from Vienna University of Economics and Business.
+
+My experience includes applied AI, passenger-demand forecasting, federated learning, NLP, data analysis and business process development.
+
+A downloadable CV will be added after the final portfolio review.
+
 ## 📫 Contact
 
 - Email: suadkoh@gmail.com
