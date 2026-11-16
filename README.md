@@ -1,6 +1,6 @@
 # Hi, I’m Suad 👋
 
-I am completing a Master’s degree in Artificial Intelligence at Johannes Kepler University Linz, with a background in business informatics, data science and applied machine learning.
+I hold a Master’s degree in Artificial Intelligence from Johannes Kepler University Linz (2026), with a background in business informatics, data science and applied machine learning. I build AI-powered, multilingual products that solve real problems for the people who use them.
 
 My main interests include:
 
@@ -16,11 +16,11 @@ My main interests include:
 ### When to Trust Your Neighbours?
 ### Neighbour-Gated xLSTM Fusion for Metro Ridership Forecasting
 
-My current Master’s thesis investigates whether information from directly connected subway stations improves hourly ridership forecasting.
+My Master’s thesis investigated whether information from directly connected subway stations improves hourly ridership forecasting.
 
 The task is one-step-ahead forecasting of station-level entries. Each model predicts ridership for one target station using the preceding 168 hours of data. Neighbour-aware variants additionally use data from stations that are immediately adjacent to the target station on the subway network.
 
-The project examines:
+The project examined:
 
 - Hourly NYC subway ridership forecasting
 - Local-only and neighbour-aware xLSTM models
@@ -62,6 +62,12 @@ Due to confidentiality requirements, the original data, source code, infrastruct
 
 ## 📌 Selected Projects
 
+### Al Kauthar Academy Platform
+
+A production web app I designed and built from scratch for an online Quran and tajweed academy, replacing a WhatsApp- and spreadsheet-based operation. It is used daily by 57 students, 6 teachers and 8 administrators, and covers scheduling, attendance, absence requests, homework, an interactive tajweed textbook, prayer times and push notifications. It is available in Slovak, English and Arabic (right-to-left).
+
+*Stack:* Next.js, React, TypeScript, Supabase/PostgreSQL with row-level security, Vercel, PWA.
+
 ### NYC Subway Ridership Forecasting
 
 A station-specific forecasting study comparing local temporal models with neighbour-aware xLSTM architectures.
@@ -82,10 +88,11 @@ An NLP pipeline for extracting events and structured information from unstructur
 
 ## 🛠 Technical Skills
 
-**Programming:** Python, R, SQL, Java, C++  
+**Programming:** Python, TypeScript, SQL, R, Java, C++  
 **Machine Learning:** PyTorch, scikit-learn, deep learning, supervised learning, forecasting  
 **Specialised Areas:** xLSTM, NLP, federated learning, privacy-aware machine learning  
 **Data:** pandas, NumPy, data preprocessing, feature engineering, model evaluation  
+**Web:** Next.js, React, Supabase/PostgreSQL, Vercel, PWAs  
 **Tools:** Git, GitHub, Jupyter Notebook, LaTeX, Matplotlib
 
 ## 🌍 Languages
@@ -104,7 +111,7 @@ I also support educational and community projects through online teaching and we
 
 ## 📄 Résumé
 
-I am completing a Master’s degree in Artificial Intelligence at Johannes Kepler University Linz and hold a Bachelor’s degree in Business Informatics from Vienna University of Economics and Business.
+I hold a Master’s degree in Artificial Intelligence from Johannes Kepler University Linz and a Bachelor’s degree in Business Informatics from Vienna University of Economics and Business.
 
 My experience includes applied AI, passenger-demand forecasting, federated learning, NLP, data analysis and business process development.
 
